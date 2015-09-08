@@ -1,4 +1,8 @@
-# Clean_Marvel
+# elasticsearch very high CPU usage
+
+if you are using marvel plugin, mavel is creating a one big index everyday, so fix to release memory and cpu usage is delete all marvel indexes.
+
+
 
 public class IndicesDelete
 	{
